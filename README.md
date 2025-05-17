@@ -20,4 +20,4 @@ This project explores and analyzes IPL (Indian Premier League) match data using 
 
 ## 👤 Author:
 Jagadheesh Polisetty  
-[LinkedIn Profile](www.linkedin.com/in/jagadheesh-polisetty-334442349) | [Email](mailto:polisettyjagadheesh@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/jagadheesh-polisetty-334442349) | [Email](mailto:polisettyjagadheesh@gmail.com)
