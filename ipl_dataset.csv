@@ -1,0 +1,6 @@
+match,team1,team2,winner,venue,toss_winner,toss_decision
+1,MI,CSK,MI,Mumbai,MI,bat
+2,CSK,RCB,RCB,Chennai,CSK,field
+3,RCB,MI,MI,Bangalore,RCB,field
+4,KKR,SRH,SRH,Hyderabad,KKR,bat
+5,SRH,KKR,KKR,Kolkata,SRH,bat
